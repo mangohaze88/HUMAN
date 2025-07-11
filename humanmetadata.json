@@ -1,0 +1,21 @@
+{
+  "name": "Human 300",
+  "symbol": "HUMAN",
+  "description": "We're not just fighting back — we're flipping the future. $HUMAN is the symbol of our era. Join us before it's too late.",
+  "image": "https://raw.githubusercontent.com/mangohaze88/logos/main/HUMANLOGO.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/mangohaze88/logos/main/HUMANLOGO.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {
+    "website": "htpps:humantoken.win",
+    "twitter": "htpps:x.com/humantoken",
+    "telegram": "t.me/humantoken300"
+  }
+}
